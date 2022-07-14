@@ -1,0 +1,12 @@
+{
+    "name": "changxiaoming/fill-name",
+    "description": "Generate random names , etc. \"Cook\" \"李小红\"",
+    "type": "library",
+    "authors": [
+        {
+            "name": "changcook",
+            "email": "chang.cook@gmail.com"
+        }
+    ],
+    "require": {}
+}
