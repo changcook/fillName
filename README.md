@@ -8,13 +8,13 @@ use changxiaoming\FillName\Genwords;
 - 生成一个随机名字
 
 ``` php 
- $name =  Genwords::getInstance()->getRandName() )   ;
+ $name =  Genwords::getInstance()->getRandName();
 ```
 
 - 生成一个女士名-设置性别
 
 ``` php 
- $name =  Genwords::getInstance()->setGender('female')->getRandName() )   ;
+ $name =  Genwords::getInstance()->setGender('female')->getRandName()  ;
 ```
 
 - 随机生成100个姓名
